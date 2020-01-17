@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		21F0DB2223D14C9F005626C3 /* eunji01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F0DB2123D14C9F005626C3 /* eunji01.swift */; };
+		21F0DB2623D15215005626C3 /* test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F0DB2523D15215005626C3 /* test.swift */; };
 		F4DCB92023D12E65002A9326 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4DCB91F23D12E65002A9326 /* AppDelegate.swift */; };
 		F4DCB92223D12E65002A9326 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4DCB92123D12E65002A9326 /* SceneDelegate.swift */; };
 		F4DCB92423D12E65002A9326 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4DCB92323D12E65002A9326 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		21F0DB2123D14C9F005626C3 /* eunji01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = eunji01.swift; sourceTree = "<group>"; };
+		21F0DB2523D15215005626C3 /* test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test.swift; sourceTree = "<group>"; };
 		F4DCB91C23D12E65002A9326 /* GitFlowPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitFlowPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4DCB91F23D12E65002A9326 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F4DCB92123D12E65002A9326 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				F4DCB92A23D12E66002A9326 /* LaunchScreen.storyboard */,
 				F4DCB92D23D12E66002A9326 /* Info.plist */,
 				21F0DB2123D14C9F005626C3 /* eunji01.swift */,
+				21F0DB2523D15215005626C3 /* test.swift */,
 			);
 			path = GitFlowPractice;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				F4DCB92423D12E65002A9326 /* ViewController.swift in Sources */,
 				F4DCB92023D12E65002A9326 /* AppDelegate.swift in Sources */,
 				F4DCB92223D12E65002A9326 /* SceneDelegate.swift in Sources */,
+				21F0DB2623D15215005626C3 /* test.swift in Sources */,
 				21F0DB2223D14C9F005626C3 /* eunji01.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
